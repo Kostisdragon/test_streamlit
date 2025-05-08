@@ -2,10 +2,8 @@ import pandas as pd
 import streamlit as st
 
 st.title("Test Streamlit")
-st.write("This is my first trial app!!")
+st.write("Μαρίζα είσαι όμορφη!!")
 
-st.write('Γιάννη τι κάνεις;')
-
-
+st.write("Έφτιαξα την πρώτη μου σελίδα για στατιστικά δεδομένα μέσω Python!!")
 
 
