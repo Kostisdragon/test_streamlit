@@ -8,7 +8,7 @@ st.write("Γιάννη τι κάνεις;!")
 st.write("Πρέπει να φύγω για δουλειά. Να τα πούμε πιο αργά; Σχολάω 21:30")
 st.write("Απάντα μου στο messenger, είναι πιο απλό")
 
-st.image("C:\Users\KDrakonakis\test_streamlit\images\b179546f-a09d-4b66-92a5-604d66af0592.jpeg", caption="Ε ρε να γυρίζαν τα χρόνια πίσω!", use_column_width=True)
+st.image("images/photo1.jpeg", caption="Ε ρε να γυρίζαν τα χρόνια πίσω!", use_column_width=True)
 
 
 
